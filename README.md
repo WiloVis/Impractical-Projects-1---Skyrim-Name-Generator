@@ -1,4 +1,4 @@
-# Skyrim Name Generator / Impractical Project-1
+# Skyrim Name Generator
 A comprehensive, lore-friendly name generator for Elder Scrolls V: Skyrim characters. Perfect for those moments when you've spent 30 minutes on character creation and can't think of a name that fits your Nord warrior or Khajiit thief.
 
 Features
